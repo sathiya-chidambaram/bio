@@ -43,3 +43,14 @@ section#contact{
 .email_me {
 	margin-top: 25px;
 }
+
+/**MQ****/
+@media all and (min-width:0px) and (max-width: 812px){
+.year-about {
+    position: relative;
+    top: 35%;
+    font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-weight: 600;
+    font-size: 10px;
+}
+}
